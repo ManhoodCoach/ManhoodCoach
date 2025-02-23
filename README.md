@@ -101,13 +101,7 @@ If you don’t know your partner’s love language, ask them or take the free qu
     </div>
 </body>
 </html>
-📂 Project Structure
-css
-Copy
-Edit
-📂 manhood-mastery
- ├── 📄 index.html  → <!-- index.html (Landing Page) -->
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -154,19 +148,4 @@ Edit
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Free Content: Love Languages</h1>
-        <p>Understanding Your Partner’s Love Language...</p>
-        <h2>The Five Love Languages and How They Impact Conflict Resolution</h2>
-        <h3>1. Words of Affirmation</h3>
-        <p>"I feel loved when I hear encouraging words..."</p>
-        <h3>2. Acts of Service</h3>
-        <p>"Actions speak louder than words..."</p>
-        <h3>3. Receiving Gifts</h3>
-        <p>"It’s not about the price tag..."</p>
-        <h3>4. Quality Time</h3>
-        <p>"I feel loved when we spend focused, undistracted time together..."</p>
-        <h3>5. Physical Touch</h3>
-        <p>"I feel most connected when we are physically close..."</p>
-    </div>
-</body>
+   
