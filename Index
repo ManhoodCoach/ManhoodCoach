@@ -26,15 +26,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Choose Your Path</h1>
-        <ul>
-            <li><a href="love-languages.html">❤️ Love Languages (FREE)</a></li>
-            <li><a href="#">❤️ Coaching</a></li>
-        </ul>
-    </div>
-</body>
-</html>
 
 
 <!DOCTYPE html>
