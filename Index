@@ -1,56 +1,31 @@
-<!-- index.html (Landing Page) -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Manhood Mastery Community</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
 </head>
 <body>
-    <div class="container">
+
+    <header>
         <h1>Welcome to Your Journey</h1>
         <p>Unlock your potential and explore deeper connections.</p>
+    </header>
+
+    <main>
         <a href="journey.html" class="btn">Start Your Journey</a>
-    </div>
+
+        <!-- Instagram Embed -->
+        <blockquote class="instagram-media" 
+            data-instgrm-captioned 
+            data-instgrm-permalink="https://www.instagram.com/p/DGbpB4gSqng/?utm_source=ig_embed&amp;utm_campaign=loading" 
+            data-instgrm-version="14"
+            style="background:#FFF; border:0; border-radius:5px; box-shadow:0 0 5px rgba(0,0,0,0.15); margin:10px auto; max-width:540px; min-width:326px; padding:0; width:100%;">
+        </blockquote>
+        <script async src="https://www.instagram.com/embed.js"></script>
+    </main>
+
 </body>
 </html>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choose Your Path</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Content: Love Languages</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Free Content: Love Languages</h1>
-        <p>Understanding Your Partner’s Love Language...</p>
-        <h2>The Five Love Languages and How They Impact Conflict Resolution</h2>
-        <h3>1. Words of Affirmation</h3>
-        <p>"I feel loved when I hear encouraging words..."</p>
-        <h3>2. Acts of Service</h3>
-        <p>"Actions speak louder than words..."</p>
-        <h3>3. Receiving Gifts</h3>
-        <p>"It’s not about the price tag..."</p>
-        <h3>4. Quality Time</h3>
-        <p>"I feel loved when we spend focused, undistracted time together..."</p>
-        <h3>5. Physical Touch</h3>
-        <p>"I feel most connected when we are physically close..."</p>
-    </div>
-</body>
-</html>
