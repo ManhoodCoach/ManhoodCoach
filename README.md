@@ -4,23 +4,6 @@ Overview
 
 Welcome to the Manhood Mastery Community website! This project is designed to help men unlock their full potential, deepen their connections, and embark on a journey of self-discovery.
 
-Features
-
-Landing Page: Introduction to the Manhood Mastery Community.
-
-Call-to-Action (CTA): A button linking to the next step in the journey.
-
-Instagram Embed: Showcasing social media content for engagement.
-
-Responsive Design: Ensuring a seamless experience on all devices.
-
-Technologies Used
-
-HTML: Structure of the website.
-
-CSS: Styling for a clean and user-friendly interface.
-
-JavaScript: For embedding Instagram content.
 
 Getting Started
 
