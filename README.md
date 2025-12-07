@@ -5,6 +5,6 @@
 
 This repository stores the canonical versions of the FOWLCAT whitepaper.
 
-- [Download v1.0 (PDF)](./FOWLCAT_Whitepaper_v1.0.pdf)
+- [Download v1.0 (PDF)](./FOWLCAT_Whitepaper_v1.0.pdf): https://assets.zyrosite.com/AMqDEaa2DkUEMVqr/fowlcat-whitepaper-v1.0-yY3kTm5QGisXG7yI.pdf
 - Official website: https://fowlcat.com
 ](https://assets.zyrosite.com/AMqDEaa2DkUEMVqr/fowlcat-whitepaper-v1.0-yY3kTm5QGisXG7yI.pdf)
