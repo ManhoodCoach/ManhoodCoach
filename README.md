@@ -1,42 +1,10 @@
-Manhood Mastery Community Website
+[# FOWLCAT Whitepaper
 
-Overview
+**Title:** FOWLCAT – From the Block to the Blockchain  
+**Version:** 1.0 (December 2025)
 
-Welcome to the Manhood Mastery Community website! This project is designed to help men unlock their full potential, deepen their connections, and embark on a journey of self-discovery.
+This repository stores the canonical versions of the FOWLCAT whitepaper.
 
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/manhood-mastery.git
-
-Open the index.html file in a web browser.
-
-Ensure you have an active internet connection for the Instagram embed to load properly.
-
-Folder Structure
-
-/ Manhood Mastery Community
-│-- index.html        # Main HTML file
-│-- styles.css        # Styling for the website
-│-- README.md         # Project documentation
-
-Future Enhancements
-
-Add more interactive elements.
-
-Improve mobile responsiveness.
-
-Integrate a full website with additional resources.
-
-Contributions
-
-Feel free to contribute by submitting a pull request or suggesting improvements!
-
-License
-
-This project is open-source and available under the MIT License.
-
-Author: Jahmeel Gray
-Website: Manhood Mastery Community
+- [Download v1.0 (PDF)](./FOWLCAT_Whitepaper_v1.0.pdf)
+- Official website: https://fowlcat.com
+](https://assets.zyrosite.com/AMqDEaa2DkUEMVqr/fowlcat-whitepaper-v1.0-yY3kTm5QGisXG7yI.pdf)
