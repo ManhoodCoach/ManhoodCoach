@@ -16,12 +16,12 @@ This repository contains Manhood Mastery website and content assets, including:
 
 - Landing page code
 - Journey page
-- Love Languages content
-- CSS and design files
+- Love Languages page
+- Brand styling and layout assets
 
 ## Brand
 
-Founder: Jahmeel CryptoMeel Gray
+Founder: Jahmeel Gray
 
 ## Status
 

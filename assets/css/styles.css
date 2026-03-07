@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #121414;
+  color: #D8D2C4;
+}
+
+header {
+  text-align: center;
+  padding: 3rem 1.5rem 2rem;
+  background: #1F3D2B;
+}
+
+header h1 {
+  margin: 0 0 0.5rem;
+}
+
+header p {
+  margin: 0;
+  color: #D8D2C4;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+.hero {
+  padding: 2rem 0;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.85rem 1.25rem;
+  text-decoration: none;
+  background: #2E5E3E;
+  color: #D8D2C4;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background: #6F8F72;
+  color: #121414;
+}
+
+a {
+  color: #A8E2D9;
+}
+
+ul {
+  padding-left: 1.25rem;
+}
